@@ -1,5 +1,5 @@
 ---
-title: "symmetric-tree"
+title: "convert-sorted-array-to-binary-search-tree"
 date: 2024-02-05
 layout: post
 ---
