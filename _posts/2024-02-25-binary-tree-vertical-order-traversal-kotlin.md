@@ -9,10 +9,6 @@ class Solution {
 
     private val map: MutableMap<Int, MutableList<ColWithTreeNode>> = mutableMapOf()
 
-    /**
-     * 몇번째 행/열인지 적어서 맵에 집어넣는다.
-     * map에서 순서대로 읽어온다.
-     */
     fun verticalOrder(root: TreeNode?): List<List<Int>> {
         recursiveLogic(root, 0, 0)
         val sorted = map.toSortedMap()
