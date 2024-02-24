@@ -1,5 +1,5 @@
 ---
-title: "btvot"
+title: "Binary Tree Vertical Order Traversal"
 date: 2024-02-25
 layout: post
 ---
